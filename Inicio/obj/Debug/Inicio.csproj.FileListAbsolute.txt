@@ -1,0 +1,13 @@
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\bin\Debug\Inicio.exe.config
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\bin\Debug\Inicio.exe
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\bin\Debug\Inicio.pdb
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.consultar.resources
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.Form1.resources
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.Properties.Resources.resources
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.csproj.GenerateResource.Cache
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.exe
+c:\users\infoc35\documents\visual studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.pdb
+C:\Users\infoc35\Documents\Visual Studio 2015\Projects\Inicio\Inicio\bin\Debug\MySql.Data.dll
+C:\Users\infoc35\Documents\Visual Studio 2015\Projects\Inicio\Inicio\bin\Debug\MySql.Data.xml
+C:\Users\infoc35\Documents\Visual Studio 2015\Projects\Inicio\Inicio\obj\Debug\Inicio.Inicio.resources
